@@ -2,8 +2,15 @@ project:
   type: website
   output-dir: docs
 
+execute: 
+  freeze: auto
+
 website:
-  title: "Cedric Vidonne"
+  title: "Cédric Vidonne"
+  description: "Information Management Officer at UNHCR specialized in data visualization and mapping."
+  # favicon: 
+  site-url: "https://vidonne.github.io/"
+  repo-url: "https://github.com/vidonne/vidonne.github.io"
   navbar:
     left:
       - href: index.qmd
@@ -12,7 +19,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: simplex
     css: styles.css
     toc: true
 
