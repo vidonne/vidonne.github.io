@@ -1,7 +1,27 @@
 ---
-title: "vidonne.github.io"
+title: "Cédric Vidonne"
+image: /assets/img/cedric-vidonne.jpg
+image-alt: "Portrait photo of the author"
+about: 
+  template: jolla
+  image-shape: rounded
+  links: 
+      - href: https://github.com/vidonne
+        icon: "github"
+        aria-label: "Github"
+      - href: https://twitter.com/cvidonne
+        icon: "twitter"
+        aria-label: "Twitter"
+      - href: https://fosstodon.org/@cvidonne
+        icon: "mastodon"
+        aria-label: "Mastodon"
+      - href: https://www.linkedin.com/in/cedricvidonne/
+        icon: "linkedin"
+        aria-label: "Linkedin"
 ---
 
-This is a Quarto website.
+Information Management Officer at [UNHCR](https://www.unhcr.org/) specialized in data visualization and mapping.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Proud creator of the [UNHCR Data Visualization Platform](https://dataviz.unhcr.org/) and its related [guidelines](https://dataviz.unhcr.org/assets/download/UNHCR_Data_Visualization_Guidelines.pdf), [recommendations](https://dataviz.unhcr.org/chart_gallery/) on chart selection and [tools](https://dataviz.unhcr.org/tools/) to build branded graphics.
+
+Recently started my [R](https://www.r-project.org/) journey, making more and more visualizations using [ggplot2](https://ggplot2.tidyverse.org/) and being audacious enough to build some R packages.

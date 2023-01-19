@@ -12,16 +12,47 @@ website:
   site-url: "https://vidonne.github.io/"
   repo-url: "https://github.com/vidonne/vidonne.github.io"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    # left:
+    #   - href: index.qmd
+    #     text: About
+    right:
+      - href: https://github.com/vidonne
+        icon: "github"
+        aria-label: "Github"
+      - href: https://twitter.com/cvidonne
+        icon: "twitter"
+        aria-label: "Twitter"
+      - href: https://fosstodon.org/@cvidonne
+        icon: "mastodon"
+        aria-label: "Mastodon"
+      - href: https://www.linkedin.com/in/cedricvidonne/
+        icon: "linkedin"
+        aria-label: "Linkedin"
+  page-footer: 
+    left: "&copy; 2023 Cédric Vidonne" 
+    right: 
+      - href: https://github.com/vidonne
+        icon: "github"
+        aria-label: "Github"
+      - href: https://twitter.com/cvidonne
+        icon: "twitter"
+        aria-label: "Twitter"
+      - href: https://fosstodon.org/@cvidonne
+        icon: "mastodon"
+        aria-label: "Mastodon"
+      - href: https://www.linkedin.com/in/cedricvidonne/
+        icon: "linkedin"
+        aria-label: "Linkedin"
+  
 
 format:
   html:
-    theme: simplex
+    theme: 
+      light: 
+        - flatly
+      dark: 
+        - darkly
     css: styles.css
-    toc: true
 
 
 
