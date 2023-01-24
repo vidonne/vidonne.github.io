@@ -1,0 +1,78 @@
+- path: "#"
+  image: /assets/img/cedric-vidonne.jpg
+  title: Data Visualization Platform
+  description: Insights, guidelines, and tools for creating UNHCR brand-compliant data visualization and improving data storytelling.
+  date: "2022-06-01"
+  categories: [Dataviz, Guidelines, Tutorials]
+- path: "#"
+  image: 
+  title: Out of the Spotlight
+  description: Away from the headlines, millions of forcibly displaced people are being pushed to the brink.
+  date: "2022-10-24"
+  categories: [Storymaps]
+- path: "#"
+  image: 
+  title: No end in sight
+  description: Refugees and migrants moving irregularly to North Africa and Europe face unspeakable horrors along Mediterranean routes.
+  date: "2022-06-09"
+  categories: [Storymaps]
+- path: "#"
+  image: 
+  title: No home away from home
+  description: Forced to flee their homeland, Venezuelan refugees and migrants now face widespread risk of eviction and homelessness in their new country.
+  date: "2021-10-22"
+  categories: [Storymaps]
+- path: "#"
+  image: 
+  title: COVID-19 deepens threats for displaced women and children
+  description: The pandemic has aggravated many of the factors that put forcibly displaced women and children at greater risk of violence and abuse.
+  date: "2021-08-05"
+  categories: [Storymaps]
+- path: "#"
+  image: 
+  title: Displaced on the frontlines of the climate emergency
+  description: From the Sahel to Central America, climate change is driving displacement and increasing the vulnerability of those already forced to flee.
+  date: "2021-08-18"
+  categories: [Storymaps]
+- path: "#"
+  image: 
+  title: Uprooted in their own land
+  description: Forced to flee their homes but remaining in their countries, the internally displaced are among the world’s most vulnerable people.
+  date: "2021-11-12"
+  categories: [Storymaps]
+- path: "#"
+  image: 
+  title: "Livelihoods, food and futures: COVID-19 and the displaced"
+  description: Already at risk before COVID, displaced people face new barriers to work, education, food and social protection.
+  date: "2021-04-09"
+  categories: [Storymaps]
+- path: "#"
+  image: 
+  title: Space, shelter and scarce resources - coping with COVID-19
+  description: Basic services are basic rights - yet for people forced to flee, the standard responses to the virus are virtually out of reach.
+  date: "2020-11-10"
+  categories: [Storymaps]
+- path: "#"
+  image: 
+  title: COVID-19 and refugees
+  description: The maps, stats and facts on how the pandemic has impeded efforts to protect the displaced and affected their access to basic rights.
+  date: "2020-06-30"
+  categories: [Storymaps]
+- path: "#"
+  image: 
+  title: Childcare solutions urgently needed for Ukrainian refugees
+  description: Beginning on 24 February 2022, the war in Ukraine has led to a massive outflow of refugees throughout Europe.
+  date: "2022-06-01"
+  categories: [Data story, Dataviz]
+- path: "#"
+  image: 
+  title: Needs mount as conflict in Yemen rages on
+  description: More than seven years of conflict have resulted in Yemen enduring one of the world's worst humanitarian crises, in which 70 per cent of the population rely on aid for their survival.
+  date: "2022-04-01"
+  categories: [Data story, Dataviz]
+- path: "#"
+  image: 
+  title: COVID-19 vaccination rates in countries hosting refugees
+  description: As global income inequality combines with uneven access to vaccines, vulnerable populations including refugees are being hit hardest.
+  date: "2022-02-14"
+  categories: [Data story, Dataviz]

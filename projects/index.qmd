@@ -1,0 +1,16 @@
+---
+title: "Projects"
+subtitle: Data visualization and R packages mainly for work
+page-layout: full
+title-block-banner: true
+listing: 
+  type: grid
+  contents:
+    - projects.yml
+  sort-ui: true
+  sort: "date desc"
+  categories: numbered
+  fields: [image, title, categories, description]
+---
+
+
